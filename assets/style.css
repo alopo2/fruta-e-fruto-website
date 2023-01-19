@@ -30,3 +30,7 @@ header nav ul li a#ativo {
   color: 333333;
   font-weight: bold;
 }
+
+header nav ul li a:hover {
+  text-decoration: underline;
+}
