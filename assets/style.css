@@ -1,6 +1,6 @@
 .cabecalho {
   align-items: center;
-  background: f9f9f9;
+  background: #f9f9f9;
   display: flex;
   justify-content: space-between;
   padding-left: 2rem;
@@ -20,14 +20,14 @@
 }
 
 .menu-link {
-  color: 808080;
+  color: #808080;
   margin-left: 1.25rem;
   text-decoration: none;
   text-transform: lowercase;
 }
 
-.menu-item#ativo {
-  color: 333333;
+.menu-item .ativo {
+  color: #333333;
   font-weight: bold;
 }
 
